@@ -21,6 +21,9 @@ main{
     background-color:#b2dfdb;
     width: 200%;
     padding: 20px ;
+    border:5px solid white ;
+    border-left: 0;
+    border-right: 0;
 }
 .content{
     display: inline-block;
