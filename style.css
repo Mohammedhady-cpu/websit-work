@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+}
+header{
+    text-align: center;
+    color: #212121;
+    background-color: #00796b;
+    font-family:"Archivo Black";
+    padding: 20px;
+    margin:0;
+    width: 200%;
+    text-shadow:5px 5px 10px #212121;    
+}
+h1{
+    font-size: 2.5em;
+    margin: 0;
+    color: #212121;
+}
+main{
+    display: inline-block;
+    background-color:#b2dfdb;
+    width: 200%;
+    padding: 20px ;
+}
+.content{
+    display: inline-block;
+    font-size: 30px;
+    width: 750px;
+    border: 1px solid #cccccc00;
+    margin: 10px 0 0 110px;
+    line-height:250px;
+    border-radius: 20px; 
+    background-color:#512da8;
+    display:block,inline;
+}
+.content:hover{
+    background-color: #41208f;
+}
+.number1{
+    font-size: 300px;
+    color: #757575;
+    font-weight:bolder;
+    font-style: italic;
+    text-align: center;
+    margin: 0;
+    float: left;
+}
+.text{
+    line-height: 1;
+    margin-left:10px;
+    text-align: center;
+    padding: auto 0 auto 0 ;
+    margin-top: 0;
+    font-size: 25px;
+    font-family: "Archivo Black";
+    display: inline-block;
+    color: #212121;
+    margin-bottom: 0px;
+}
+.corse{
+    text-align: center;
+    font-style: bold;
+    font-family: "Archivo Black";
+    color: #212121;
+}
+.webcorse,.webcorse:visited{
+    text-decoration: none;
+    color: #212121;
+    padding: 10px 8px;
+    background-color: #00796b;
+    border-radius: 10px;
+}
+.webcorse:hover{
+    background-color: #01574d;
+}
+.HTML{
+    color:#E34C26
+}
+.CSS{
+    COLOR:#264DE4
+}
+.JS{
+    COLOR:#F0DB4F
+}
+footer{
+    margin:0px ;
+    text-align: center;
+    width: 202.9%;
+    background-color: #00796b;
+    padding: 0;
+    font-family: "Archivo Black";
+    height: 110px;
+}
+.copyright{
+    margin: 0;
+    padding-top: 20px;
+}
+.footer-link,.footer-link:visited{
+    text-decoration: none;
+    color:#212121;
+    padding: 10px 8px;
+    background-color: #01473f;
+    border-radius: 10px;
+}
+.footer-link:hover{
+    background-color: #001d1a;
+}
